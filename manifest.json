@@ -1,25 +1,25 @@
 {
-    " short_name " : " fannypwa " ,
-    " nombre " : " Fanny PWA " ,
-    " start_url " : " /index.html " ,
-    " pantalla " : " independiente " ,
-    " theme_color " : " # 81d4f4 " ,
-    " background_color " : " # ff6d00 " ,
-    " iconos " : [
-      {
-        " src " : " img / 2048.png " ,
-        " tamaños " : " 2048x2048 " ,
-        " tipo " : " imagen / png "
-      },
-      {
-        " src " : " img / icono1024.png " ,
-        " tamaños " : " 1024x1024 " ,
-        " tipo " : " imagen / png "
-      },
-      {
-        " src " : " img / icono256.png " ,
-        " tamaños " : " 256x256 " ,
-        " tipo " : " imagen / png "
-      }
-    ]
-  }
+  "short_name": "dmmpwa",
+  "name": "PWA Edith",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#81d4f4",
+  "background_color": "#ff6d00",
+  "icons": [
+    {
+      "src": "img/icono2048.png",
+      "sizes": "2048x2048",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icono1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icono256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
