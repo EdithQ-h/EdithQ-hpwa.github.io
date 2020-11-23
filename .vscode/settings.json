@@ -1,0 +1,5 @@
+{
+    " extensions.showRecommendationsOnlyOnDemand " : verdadero ,
+    " git.autofetch " : verdadero ,
+    " typescript.disableAutomaticTypeAcquisition " : verdadero
+}
