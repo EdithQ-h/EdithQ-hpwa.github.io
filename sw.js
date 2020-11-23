@@ -3,7 +3,7 @@
 * se reinstale. Normalmente se cambia el número en el nombre del caché cuando
 * cambia el contenido de los archivos. Espera 11 minutos después de hacer los
 * cambios en tu sitio, para después actualizar este archivo. * /
-const  CACHE  =  "fannypwa-1.00" ;
+const  CACHE  =  "edithpwa-1.00" ;
 
 / ** Archivos requeridos para que la aplicación funcione fuera de línea. * /
 const  ARCHIVOS  =  [
