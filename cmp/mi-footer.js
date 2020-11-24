@@ -1,7 +1,7 @@
-class MiFooter extends HTMLElement {
-  connectedCallback() {
-    this.innerHTML = /* html */
-      `Copyright &copy; Quintana Hernandez Edith`;
+class  MiFooter  extiende  HTMLElement  {
+  connectedCallback ( )  {
+    esto . innerHTML  =  / * html * /
+      `Copyright y copia; Quintana Hernandez Edith` ;
   }
 }
-customElements.define("mi-footer", MiFooter);
+customElements . define ( "mi-pie de página" ,  MiFooter ) ;
